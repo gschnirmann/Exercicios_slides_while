@@ -27,7 +27,7 @@ while True:
     contador += 1
 
 
-# Solução do Enrico que também funciona super bem!
+# Outra soluçãoq que também funciona super bem!
 
 # while numero != -1:
 #     numero = int(input("Digite um numero: "))

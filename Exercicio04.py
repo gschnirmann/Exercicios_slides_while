@@ -2,7 +2,6 @@
 # somatório dos N primeiros números inteiros a partir do 1. Sendo N
 # lido do teclado;
 
-# Solução do colega Enzo
 
 # Leio o valor do teclado
 n = int(input("Digite um número inteiro: "))
